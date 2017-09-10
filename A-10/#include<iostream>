@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int sumtotal(int *a,int sum,int start,int end){
+	if( x == sum){
+	return x;
+	}
+}
+int main(){
+	return 0;
+}
